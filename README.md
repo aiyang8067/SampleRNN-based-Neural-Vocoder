@@ -3,7 +3,7 @@ Codes of the paper:
 Yang Ai, Hong-Chuan Wu, and Zhen-Hua Ling, "SAMPLERNN-BASED NEURAL VOCODER FOR STATISTICAL PARAMETRIC SPEECH SYNTHESIS," in Proc. ICASSP, 2018, pp. 5659–5663.
 
 Usage:
-First enter the root directory of the folder: `cd sampleRNN_tf`.
+First enter the root directory of the folder.
 
 Data preparation:
 Put the train, validiation and test waveforms (16kHz sample rate) into the corresponding folder in directory 'datasets/dataset/waveform',
